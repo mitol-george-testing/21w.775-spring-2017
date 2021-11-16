@@ -1,0 +1,43 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "History"
+    ],
+    [
+      "Humanities",
+      "Literature"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "American Literature"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Creative Writing"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Nonfiction Prose"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "b21290e6-2d0d-7812-3529-891e9a0c93e1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Writing about Nature and Environmental Issues",
+  "course_description": "In this course we will read and write about works that explore symbolic encounters in the American landscape. Some of the assigned works look at uneasy encounters between ordinary individuals and animals\u2014wolves, eagles, sandhill cranes\u2014that Americans have invested with symbolic significance; others explore conflicts between the pragmatic American impulse to impose order on unruly nature and the equally American inclination to enshrine the unaltered landscape.\n",
+  "department_numbers": [],
+  "extra_course_numbers": "",
+  "primary_course_number": "21W.775",
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
